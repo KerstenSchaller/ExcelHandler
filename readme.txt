@@ -8,4 +8,9 @@ Excelhandler.exe <TemplateFile> <Worksheet><ouputfileName> <Row><Colum><Value>
 <Row><Colum><Value> 	input which specifies a row, column and value to write to it. Multiple values can be specified. 
 
 Example: 
-Excelhandler.exe Vorlage.xlsx PersönlicheAusgabenüberwachung Output_2.xlsx 12 F 120 13 F 210 14 F 170
+Excelhandler.exe Vorlage.xlsx PersÃ¶nlicheAusgabenÃ¼berwachung Output_2.xlsx 12 F 120 13 F 210 14 F 170
+
+
+
+
+The basic core of the programm is a class called ExcelHandler.cs which is a wrapper for the Microsoft Excel Object Library which makes working with it easier. The class was extended with a console interface to perform above mentioned easy operation.
