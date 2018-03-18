@@ -1,0 +1,6 @@
+c:\users\kerst\documents\visual studio 2015\Projects\ExcelHandler\ExcelHandler\bin\Debug\ExcelHandler.exe.config
+c:\users\kerst\documents\visual studio 2015\Projects\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.csproj.ResolveComReference.cache
+c:\users\kerst\documents\visual studio 2015\Projects\ExcelHandler\ExcelHandler\bin\Debug\ExcelHandler.exe
+c:\users\kerst\documents\visual studio 2015\Projects\ExcelHandler\ExcelHandler\bin\Debug\ExcelHandler.pdb
+c:\users\kerst\documents\visual studio 2015\Projects\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.exe
+c:\users\kerst\documents\visual studio 2015\Projects\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.pdb
