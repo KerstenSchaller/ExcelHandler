@@ -1,5 +1,3 @@
-# Excelhandler  
-
 The **Excelhandler** reads in a template Excel File, opens a worksheet, writes values to it and saves it to an output file.  
 
 The basic core of the programm is a class called ExcelHandler.cs which is a wrapper for the Microsoft Excel Object Library which makes working with it easier. The class was extended with a console interface to perform above mentioned easy operation.  
